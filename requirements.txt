@@ -1,0 +1,4 @@
+firebase-admin
+PyJWT
+cryptography
+requests
