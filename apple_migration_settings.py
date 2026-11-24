@@ -7,10 +7,10 @@ BUNDLE_ID = "com.sushicorp.kobe"
 SERVICES_CLIENT_ID = ""
 
 TEAM_ID = "FQRKJL6L22"
-KEY_ID = "3MZ2X8C28B"
-P8_PATH = "AuthKey_3MZ2X8C28B.p8"
+KEY_ID = "C5262AG392"
+P8_PATH = "AuthKey_C5262AG392.p8"
 
-FIREBASE_SERVICE_ACCOUNT_PATH = "sc-kobe-prod-firebase-adminsdk-fbsvc-ed653f7fbc.json"
+FIREBASE_SERVICE_ACCOUNT_PATH = "juan-valdez-development-firebase-adminsdk-8kff5-a38ff714f8a.json"
 
 # Migración simple (sin --manifest): vacío = todos; con uid = solo ese usuario.
 ONLY_FIREBASE_UID = ""
