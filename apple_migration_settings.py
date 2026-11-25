@@ -1,7 +1,7 @@
 """Constantes compartidas: manifest, workers en paralelo y migración simple."""
 
 # Bundle ID de la app transferida (App ID en Apple Developer).
-BUNDLE_ID = "com.sushicorp.kobe"
+BUNDLE_ID = "com.juanvaldez.mobile"
 
 # Si Firebase usa Services ID para Apple, ponlo aquí. Vacío = BUNDLE_ID.
 SERVICES_CLIENT_ID = ""

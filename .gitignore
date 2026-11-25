@@ -1,6 +1,2 @@
-*.p8
-*firebase-adminsdk*.json
-apple_migration*.json
-apple_manifest*.jsonl
 __pycache__/
 .venv/
